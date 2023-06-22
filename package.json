@@ -1,0 +1,16 @@
+{
+  "name": "how-many-eggs-api",
+  "version": "1.0.0",
+  "description": "- `$ git clone [clone url]` - `$ npm install` - `$ npm run dev`",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dan Zaharia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "firebase": "^9.22.2",
+    "firebase-admin": "^11.9.0"
+  }
+}
